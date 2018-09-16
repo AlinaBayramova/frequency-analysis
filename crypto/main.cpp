@@ -9,16 +9,17 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <stdlib.h>
+#include <stdio.h>
 
 
 using namespace std;
 int tmp = 0;
 string s;
 ifstream file;
-ofstream ftmp;
-char git_test = ' ';
 
-void run(int ch){
+//передаем сюда ackii символа
+void run(char ch){
     // int alphabet[33]; //кол-во символов в тексте
     //float frequency[33]; // массив результатов анализа
     //unsigned long int M = 0; // длина открытого сообщения(без пробелов и проч символов)
@@ -31,42 +32,35 @@ void run(int ch){
     cout<<ch;
 }
 void test () {
-    string buff;
-    // char ch[N];
+    string buff; //сюда будем считываем слова(строку) из файла
+    int M = 0; //кол-во знаков(без пробелов) в сообщении
     while (!file.eof()) {
-        getline(file, buff, ' ');//считываем пословестно
-        // cout<<buff<<' ';
-        //посимвольное чтение слов
+        getline(file, buff, ' ');//считываем пословестно из файла
+        //посимвольное чтение строки buff
         for (int i=0; i<buff.size(); i++){
-            //  cout<<buff[i];
-            char ackii_codes = buff[i];
-            cout<<endl;
-            cout<<ackii_codes;
+            if (buff.at(i) >= '\200' and buff.at(i) <= '\277') { //исключаем управляющие символы и знаки препинания из сообщения
+                cout<<buff[i]; //убрать!!!
+                //todo: функция (run) заполняющая массив букв
+              //  run(buff.at(i));
+                M++;
+            }
         }
-        break;
+        cout<<endl;
     }
-    file.close();
+    cout<<M;
 }
 
 int main() {
-    
-    //int i=0;
-    file.open("tmptest.txt");
+    file.open("test.txt");
     
     if (file.is_open()){
         test();
-        /*     while (i<6){
-         tmp = file.get();
-         if (char(tmp) != '\n')
-         s = s+char(tmp);
-         //run(tmp);
-         i++;
-         }
-         */
+       
     } else {
         cout<<"Couldn't open the file!";
     }
     
+    file.close();
     cout<<endl;
     
 }

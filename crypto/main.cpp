@@ -16,6 +16,7 @@ int tmp = 0;
 string s;
 ifstream file;
 ofstream ftmp;
+char git_test = ' ';
 
 void run(int ch){
     // int alphabet[33]; //кол-во символов в тексте

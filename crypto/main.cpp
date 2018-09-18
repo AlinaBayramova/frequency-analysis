@@ -1,4 +1,3 @@
-//
 //  main.cpp
 //  crypto
 //

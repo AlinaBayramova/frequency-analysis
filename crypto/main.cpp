@@ -9,19 +9,17 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <stdlib.h>
-#include <stdio.h>
-
 
 using namespace std;
 int tmp = 0;
 string s;
 ifstream file;
+ifstream alphabet_output;
 int frequency[32] = {0}; //кол-во символов в алфавите(исключаем букву ё)
 int M = 0; //кол-во знаков(без пробелов и др символов) в сообщении
 
 
-//передаем сюда ackii символа
+//передаем сюда ackii код символа
 void run(char ch){
     //НЕВЕРОЯТНО, НО РАБОТАЕТ,НЕ ТРОЖЬ, АЛИНА!
      switch (ch) {
@@ -222,7 +220,8 @@ void run(char ch){
              break;
      }
 }
-void test () {
+
+void character_reading () {
     string buff; //сюда будем считываем слова(строку) из файла
     while (!file.eof()) {
         getline(file, buff, ' ');//считываем пословестно из файла
@@ -239,27 +238,34 @@ void test () {
 }
 
     void analyze(){
-        float analyze[32] = {0.00}; // массив результатов анализа
+        string tmp_out;
+        float analyze[32] = {0.00}; // встречаемость каждого символа
         for(int i=0; i<32; i++){
             analyze[i] = float(frequency[i])/M;
+            alphabet_output>>tmp_out; //считываем из файлы букву алфавита для вывода в консоль
+            //печать в консоль
+            cout<<"Символ "<<tmp_out<<" встречается "<<frequency[i]<<" раз. Частота ";
             printf("%.4f", analyze[i]);
-            cout<<" ";
+            cout<<endl;
         }
 }
 
 int main() {
-    string File_Name = "/Users/Alina/Desktop/crypto/DerivedData/crypto/Build/Products/Debug/test.txt";
-    file.open(File_Name);
-    
-    
-    if (file.is_open()){
-        test();
+    setlocale(LC_ALL, "ru_RU.utf-8");
+    string File_Name = "";
+    cout<<"Введите имя файла(файл должен быть в формате txt) -> "<<endl;
+    cin>>File_Name;
+    file.open("/Users/Alina/Desktop/crypto/DerivedData/crypto/Build/Products/Debug/"+ File_Name +".txt");
+    //окрываем файл, где лежат алфавит русского языка
+    alphabet_output.open("/Users/Alina/Desktop/crypto/DerivedData/crypto/Build/Products/Debug/out.txt");
+    if (file.is_open() and alphabet_output.is_open()){
+        character_reading();
         analyze();
+        
     } else {
         cout<<"Couldn't open the file!";
     }
-    
+    alphabet_output.close();
     file.close();
     cout<<endl;
-    
 }

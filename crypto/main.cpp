@@ -232,7 +232,7 @@ void character_reading () {
             }
         }
     }
-    cout<<"Message length is: "<<M;
+    cout<<"Длина сообщения: "<<M;
     cout<< endl;
 }
 
@@ -250,7 +250,6 @@ void character_reading () {
 }
 
 int main() {
-    setlocale(LC_ALL, "ru_RU.utf-8");
     string File_Name = "";
     cout<<"Введите имя файла(файл должен быть в формате txt) -> "<<endl;
     cin>>File_Name;

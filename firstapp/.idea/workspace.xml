@@ -2,71 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ce3609-13b7-4cf6-8f11-7fd3cc385c8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/Objects-normal/x86_64/main.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/DataStore/v5/records/9L/main.cpp-6E54LB2RFE9L" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/239A607E-F77D-4B57-B6C5-65177A753952.xcactivitylog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/47E73F1C-F49B-455C-99FC-AB2681C28C98.xcactivitylog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/C4D6F1CE-21E4-44C3-AF64-6D1484BC7E44.xcactivitylog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CryptoAnalyze.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CryptoAnalyze/CryptoAnalyze.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CryptoAnalyze/files/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CryptoAnalyze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/Objects-normal/x86_64/main.dia" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/Objects-normal/x86_64/main.dia" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/alfavit.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/crypto" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/crypto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/DataStore/v5/units/main.o-3VF9UZ40D4JQ2" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/DataStore/v5/units/main.o-3VF9UZ40D4JQ2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/p53287/data.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/saved/data.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/p53287/lock.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/saved/lock.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/0E3B3F09-4238-4A69-A334-C4A09279C67B.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/0ECAF684-21C4-49B5-905F-17BAF1ED306B.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/138291C7-67B4-492D-87EC-DD56602314CE.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/1BD6AF70-76C8-4C82-9A0F-199D0E31F2EB.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/27AFABBC-11FA-4C7E-BBAB-C83DD16945CC.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/3FA518D3-2AE8-4111-859A-EB8EC75695BB.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/678C1F18-BE5E-44CD-B8CD-DD14E9B6CF6B.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/76F71B8B-1B7A-4B50-8DC1-9675BD871E31.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/8CA76C3A-0517-4046-A72B-845D683F538E.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/8FC072E3-FE07-4662-9958-99014F289151.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/8FDAC477-C9D3-42C2-965A-F33196C1AEDC.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/90BBC7EC-2167-417C-9008-CE16AAFBCF5A.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/99445258-BF87-4440-8C2B-0D7D8CFCA107.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/999774DE-936A-4CC5-ABF0-3F3AFA13E784.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/9CFAD27A-41EC-4000-8D71-700157A57798.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/A1ADFEBD-4452-4806-B836-E1EEE2C95308.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/ACF7BD43-1A2E-4C0D-9EE7-AB2A370A8471.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/B6C1DCE2-4E56-47AE-8067-F31B0AF845AD.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/C0CF55B9-5DAA-4ACF-B4DA-99E81ACD026E.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/C0EC847F-B6C7-426C-9B2E-1A047ADDAEAA.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/C8009A60-4228-4A74-877E-A7972D11961E.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/CC2E568D-AB9A-4A35-88CD-388D09BF65FA.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/Cache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/D08F7246-9E64-4A42-A085-6062FE61DF55.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/DB033BC8-BC4F-4BBF-B00C-C280124CE7B9.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/DBD39C39-5A3E-459E-86CA-B36E3C71F0B0.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/EDA3AB53-6210-49AE-A048-1855362AA343.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/F87CF288-F9CF-4BB9-888A-AEC95D5681DC.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/360966C4-F75B-40F7-BB18-3F70CB9B1A99.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/66B62050-9D04-4D0D-8990-E29A0758B7BA.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/70A24890-5582-4216-9CA4-A5CEF0D198F1.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/97CD6DFA-B7CD-4497-91F6-5A4EC095DED2.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/AB9A6908-DD5A-4B7B-8656-2DBDB56DABE0.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/CADAD219-B00B-485C-B53C-95BE955E8289.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/Cache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/502013AB-7E0E-40FF-89FB-106DE2F38224.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/Cache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/TextIndex/TextFragmentIndex-v7.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/TextIndex/TextFragmentIndex-v7.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crypto.xcodeproj/xcuserdata/Alina.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../crypto.xcodeproj/xcuserdata/Alina.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crypto/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../crypto/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Block-Diagram-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Block-Diagram-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Block-Diagram-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coryagin-Page-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programmer's competency matrix.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/saved/lock.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/saved/lock.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -459,7 +401,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543960294762" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543960296751" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

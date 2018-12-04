@@ -261,7 +261,7 @@ int main() {
         analyze();
         
     } else {
-        cout<<"Couldn't open the file!";
+        cout<<"Не удалось найти файл. Попробуйте еще раз!";
     }
     alphabet_output.close();
     file.close();

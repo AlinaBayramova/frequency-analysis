@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38ce3609-13b7-4cf6-8f11-7fd3cc385c8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/Objects-normal/x86_64/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/DataStore/v5/records/9L/main.cpp-6E54LB2RFE9L" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/239A607E-F77D-4B57-B6C5-65177A753952.xcactivitylog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/47E73F1C-F49B-455C-99FC-AB2681C28C98.xcactivitylog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/C4D6F1CE-21E4-44C3-AF64-6D1484BC7E44.xcactivitylog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CryptoAnalyze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CryptoAnalyze/CryptoAnalyze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CryptoAnalyze/files/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CryptoAnalyze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/Objects-normal/x86_64/main.dia" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/Objects-normal/x86_64/main.dia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Intermediates.noindex/crypto.build/Debug/crypto.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/alfavit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/crypto" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/crypto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Build/Products/Debug/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/DataStore/v5/units/main.o-3VF9UZ40D4JQ2" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/DataStore/v5/units/main.o-3VF9UZ40D4JQ2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/p53287/data.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/saved/data.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/p53287/lock.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Index/UniDB/crypto.xcindex/v8/saved/lock.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/0E3B3F09-4238-4A69-A334-C4A09279C67B.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/0ECAF684-21C4-49B5-905F-17BAF1ED306B.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/138291C7-67B4-492D-87EC-DD56602314CE.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/1BD6AF70-76C8-4C82-9A0F-199D0E31F2EB.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/27AFABBC-11FA-4C7E-BBAB-C83DD16945CC.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/3FA518D3-2AE8-4111-859A-EB8EC75695BB.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/678C1F18-BE5E-44CD-B8CD-DD14E9B6CF6B.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/76F71B8B-1B7A-4B50-8DC1-9675BD871E31.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/8CA76C3A-0517-4046-A72B-845D683F538E.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/8FC072E3-FE07-4662-9958-99014F289151.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/8FDAC477-C9D3-42C2-965A-F33196C1AEDC.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/90BBC7EC-2167-417C-9008-CE16AAFBCF5A.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/99445258-BF87-4440-8C2B-0D7D8CFCA107.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/999774DE-936A-4CC5-ABF0-3F3AFA13E784.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/9CFAD27A-41EC-4000-8D71-700157A57798.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/A1ADFEBD-4452-4806-B836-E1EEE2C95308.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/ACF7BD43-1A2E-4C0D-9EE7-AB2A370A8471.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/B6C1DCE2-4E56-47AE-8067-F31B0AF845AD.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/C0CF55B9-5DAA-4ACF-B4DA-99E81ACD026E.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/C0EC847F-B6C7-426C-9B2E-1A047ADDAEAA.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/C8009A60-4228-4A74-877E-A7972D11961E.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/CC2E568D-AB9A-4A35-88CD-388D09BF65FA.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/Cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/D08F7246-9E64-4A42-A085-6062FE61DF55.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/DB033BC8-BC4F-4BBF-B00C-C280124CE7B9.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/DBD39C39-5A3E-459E-86CA-B36E3C71F0B0.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/EDA3AB53-6210-49AE-A048-1855362AA343.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Build/F87CF288-F9CF-4BB9-888A-AEC95D5681DC.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/360966C4-F75B-40F7-BB18-3F70CB9B1A99.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/66B62050-9D04-4D0D-8990-E29A0758B7BA.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/70A24890-5582-4216-9CA4-A5CEF0D198F1.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/97CD6DFA-B7CD-4497-91F6-5A4EC095DED2.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/AB9A6908-DD5A-4B7B-8656-2DBDB56DABE0.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/CADAD219-B00B-485C-B53C-95BE955E8289.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Debug/Cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/502013AB-7E0E-40FF-89FB-106DE2F38224.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/Logs/Issues/Cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/TextIndex/TextFragmentIndex-v7.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/TextIndex/TextFragmentIndex-v7.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerivedData/crypto/info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../DerivedData/crypto/info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crypto.xcodeproj/xcuserdata/Alina.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../crypto.xcodeproj/xcuserdata/Alina.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crypto/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../crypto/main.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-514717949">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="java" value="5892" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5892" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CryptoAnalyze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#run#0;class#CryptoAnalyze#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>§</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Runner.java" />
+        <option value="$PROJECT_DIR$/src/CryptoAnalyze.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
+    <option name="y" value="23" />
+    <option name="width" value="757" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Bidirectional TextInternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>FinalizationJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Kotlin Android</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypographyUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543960294762" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CryptoAnalyze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CryptoAnalyze" />
+      <module name="CryptoAnalyze" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CryptoAnalyze" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38ce3609-13b7-4cf6-8f11-7fd3cc385c8a" name="Default Changelist" comment="" />
+      <created>1538068535774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538068535774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="683" y="23" width="757" height="826" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.3485294" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32833788" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.21389645" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39782017" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32833788" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3485294" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32833788" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32833788" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.8678474" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CryptoAnalyze.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/files/test.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="2433" selection-start-line="2433" selection-end-line="2433" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/zip/ZipFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/jar/JarFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/loader/URLClassPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="458" selection-start-line="458" selection-end-line="458" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1477" selection-start-line="1477" selection-end-line="1477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="243" column="23" selection-start-line="243" selection-start-column="23" selection-end-line="243" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CryptoAnalyze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#run#0;class#CryptoAnalyze#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CryptoAnalyze</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

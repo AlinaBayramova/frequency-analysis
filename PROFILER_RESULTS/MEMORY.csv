@@ -1,0 +1,5 @@
+"Name","Live Bytes","Live Objects","Allocated Objects","Avg. Age","Generations"
+"CryptoAnalyze","16 B (100 %)","1 (100 %)","1 (100 %)","0,0","1"
+" java.lang.Object.<init> ()","16 B (100 %)","1 (100 %)","1 (100 %)","0,0","1"
+"  CryptoAnalyze.<init> ()","16 B (100 %)","1 (100 %)","1 (100 %)","0,0","1"
+"   CryptoAnalyze.main (String[])","16 B (100 %)","1 (100 %)","1 (100 %)","0,0","1"
